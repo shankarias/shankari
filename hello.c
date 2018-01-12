@@ -3,11 +3,11 @@
 int main()
 {
 int i,n;
-printf("enter the valye of n");
+printf("enter the value of n\n");
 scanf("%d",&n);
-for(i=0;i<n;i++)
+for(i=1;i<=n;i++)
 {
-	printf("HELLO",n);
+	printf("HELLO\n",n);
 }
 	return 0;
 }
