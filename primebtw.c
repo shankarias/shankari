@@ -17,8 +17,9 @@ int main()
 		if(s==0)
 		{
 			printf("%d",a);
-		}
 		
+		a++;
+		}
 	return 0;
 		
 	}
