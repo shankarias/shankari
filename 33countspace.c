@@ -3,7 +3,7 @@
 int main()
 {
  int i,c=0;   
-    char a[50]="lingu mama love u mama";
+    char a[50]="hash is lovable";
     for(i=0;a[i]!='\0';i++)
     {
         if(a[i]==' ')
